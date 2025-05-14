@@ -1,5 +1,7 @@
 # **YOLOv11-NumberPlateRecognition**
 
+kaggle: https://www.kaggle.com/code/semihberaterdoan/license-plate-recognition-with-yolov11m
+
 ## YOLO Training
 
 ## Overview of YOLO
