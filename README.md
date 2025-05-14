@@ -82,11 +82,11 @@ Use the `mAP_and_IOU_explanation.ipynb` notebook to understand IoU and mAP metri
 
 ### Intersection over Union (IoU)
 IoU measures the overlap between predicted and ground truth bounding boxes:
-$$ IoU = \frac{Area\ of\ Overlap}{Area\ of\ Union} $$
+IoU = \frac{Area\ of\ Overlap}{Area\ of\ Union} 
 
 ### Mean Average Precision (mAP)
 mAP evaluates object detection performance by calculating the average precision for each class and taking the mean:
-$$ mAP = \frac{1}{N} \sum_{i=1}^{N} AP_i $$
+mAP = \frac{1}{N} \sum_{i=1}^{N} AP_i 
 
 ### YOLO
 YOLO (You Only Look Once) is a fast and accurate object detection algorithm. It processes the entire image in a single forward pass, predicting bounding boxes and class probabilities simultaneously.
