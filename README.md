@@ -111,6 +111,8 @@ For an image with a detected license plate, the script outputs:
 - `license_plate_detection_documentation.md`: Documentation for the license plate detection and OCR workflow.
 - `mAP_and_IOU_explanation.ipynb`: Notebook explaining IoU and mAP metrics with LaTeX-rendered equations.
 
+if you could not see the notebook you can look at https://www.kaggle.com/code/semihberaterdoan/license-plate-recognition-with-yolov11m
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
